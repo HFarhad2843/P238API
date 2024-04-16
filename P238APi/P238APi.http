@@ -1,0 +1,6 @@
+@P238APi_HostAddress = http://localhost:5285
+
+GET {{P238APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
